@@ -1,6 +1,6 @@
 Setting,Customize,Hints
 Storymap Info,,"For help, see tutorial in [HandsOnDataViz.org](https://handsondataviz.org/leaflet-storymaps-with-google-sheets.html)"
-Storymap Title,The Cost of Sea Level Rise NR 491,
+Storymap Title,NR491 Leaflet Storymap Demo,
 Storymap Subtitle,Colleges and Universities in Wake County<br><small>Scroll down<i class='fafa-chevron-down'></i></small>,"Add your subtitle, or delete that portion"
 Storymap Logo,media/ncsu_logo.jpg,Path to a logo image
 Google Analytics Tracking ID,,Sample format: UA-5488840-29
@@ -16,6 +16,6 @@ Pixels After Final Chapter,600,"In pixels, at least 100"
 Enable Lightbox for Images,yes,yes or no
 Credits,,
 Author Name,Collin Yates,"Appears in map credits as ""View data by..."" (or leave blank)"
-Author Email or Website,cayates2@ncsu.edu,Create link in Author Name by inserting your email or web address (or leave blank)
+Author Email or Website,,Create link in Author Name by inserting your email or web address (or leave blank)
 Author GitHub Repo Link,https://github.com/handsondataviz/leaflet-storymaps-with-google-sheets,"Insert your code repo URL to appear as link in ""View code..."" (or leave blank)"
 Code Credit,"<a href=""https://handsondataviz.org"">HandsOnDataViz</a>","Appears in credits as ""...code by..."" (or leave blank)"
