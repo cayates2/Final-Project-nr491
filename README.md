@@ -8,7 +8,7 @@ Supports images, audio and video embeddings, and Leaflet TileLayer/geojson overl
 
 
 ## Live links (replace with your own)
-- Leaflet Map https://cayates2.github.io/leaflet-storymap-nr491/
+- Leaflet Map https://cayates2.github.io/Final-Project-nr491/
 
 ## Create Your Own
 - Follow instructions in storymap.ipynb
