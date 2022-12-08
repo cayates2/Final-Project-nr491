@@ -1,0 +1,4 @@
+,Chapter,Media Link,Media Credit,Media Credit Link,Description,Zoom,Marker,Marker Color,Location,Latitude,Longitude,Overlay,Overlay Transparency,GeoJSON Overlay,GeoJSON Feature Properties
+0,Overview of Atlantic,media/gulf_stream.png,Source: USGS,https://www.usgs.gov/media/images/map-north-atlantic-and-gulf-stream,This is a test.,3,Hidden,,North Atlantic,35.5036,-69.42345,,,,
+1,North Carolina,media/peace.jpg,Image Source: Niche,https://www.niche.com/colleges/william-peace-university/,"William Peace University is a private college in Raleigh, North Carolina. Formerly affiliated with the Presbyterian Church, it offers undergraduate degrees in more than 30 majors and the School of Professional Studies offers accelerated bachelor degrees that are online or hybrid for working adults.",16,Plain,blue,15 E PEACE ST,35.7882396,-78.6373757,,,,
+2,Beaufort,,,,,16,Plain,blue,118 E SOUTH ST,35.771817,-78.6379858,,,,
